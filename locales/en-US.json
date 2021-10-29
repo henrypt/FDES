@@ -1,0 +1,121 @@
+{
+  "message": {
+    "hello": "hello FDES",
+    "about": "about",
+    "welcome": "welcome",
+    "username": "henrypt",
+    "placeholder": "Please input name",
+    "captcha": "1234",
+    "logo_text": "Fdes"
+  },
+  "system":{
+    "name": "FDES"
+  },
+  "menuClass1": {
+    "code": 200,
+    "lang": "cn",
+    "default": "1",
+    "data": [
+      {
+        "id": "1",
+        "name": "ZhuangTaiJianCe",
+        "desc": "状态监测",
+        "to": "/ZhuangTaiJianCe",
+        "active": false,
+        "icon": "home",
+        "subMenu": [
+          {
+            "id": "1.1.1",
+            "name": "ZhuangTaiZhanShi",
+            "desc": "状态展示",
+            "icon": "./images/ZhuangTaiJianCe/ZhuangTaiZhanShi.png",
+            "to": "/ZhuangTaiJianCe/ZhuangTaiZhanShi",
+            "type": "ZhuangTaiJianCe"
+          },
+          {
+            "id": "1.1.2",
+            "name": "DingZiRaoZuWenDu",
+            "desc": "定子绕组温度",
+            "icon": "./images/ZhuangTaiJianCe/DingZiRaoZuWenDu.png",
+            "to": "/ZhuangTaiJianCe/DingZiRaoZuWenDu",
+            "type": "ZhuangTaiJianCe"
+          },
+          {
+            "id": "1.1.3",
+            "name": "TongXingCeDian",
+            "desc": "同型测点",
+            "icon": "./images/ZhuangTaiJianCe/TongXingCeDian.png",
+            "to": "/ZhuangTaiJianCe/TongXingCeDian",
+            "type": "ZhuangTaiJianCe"
+          },
+          {
+            "id": "1.1.4",
+            "name": "WenDuFenBuShiYiTu",
+            "desc": "温度分部示意图",
+            "icon": "./images/ZhuangTaiJianCe/WenDuFenBuShiYiTu.png",
+            "to": "/ZhuangTaiJianCe/WenDuFenBuShiYiTu",
+            "type": "ZhuangTaiJianCe"
+          },
+          {
+            "id": "1.1.5",
+            "name": "ShuiDianLianJie",
+            "desc": "水电连接",
+            "icon": "./images/3D/ZhuangTaiJianCe/ShuiDianLianJie.png",
+            "to": "/ZhuangTaiJianCe/ShuiDianLianJie",
+            "type": "ZhuangTaiJianCe"
+          },
+          {
+            "id": "1.1.6",
+            "name": "TieXinWenDu",
+            "desc": "铁芯温度",
+            "icon": "./images/3D/ZhuangTaiJianCe/TieXinWenDu.png",
+            "to": "/ZhuangTaiJianCe/TieXinWenDu",
+            "type": "ZhuangTaiJianCe"
+          },
+          {
+            "id": "1.1.7",
+            "name": "JinXiangYunXing",
+            "desc": "进相运行",
+            "icon": "./images/3D/ZhuangTaiJianCe/JinXiangYunXing.png",
+            "to": "/ZhuangTaiJianCe/JinXiangYunXing",
+            "type": "ZhuangTaiJianCe"
+          },
+          {
+            "id": "1.1.8",
+            "name": "QiTaCanShu",
+            "desc": "其它参数",
+            "icon": "./images/3D/ZhuangTaiJianCe/QiTaCanShu.png",
+            "to": "/ZhuangTaiJianCe/QiTaCanShu",
+            "type": "ZhuangTaiJianCe"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "QuShiFenXi",
+        "desc": "趋势分析",
+        "to": "/QuShiFenXi",
+        "active": false,
+        "icon": "folder",
+        "subMenu": [
+          {
+            "id": "2.1.1",
+            "name": "FaZhan",
+            "desc": "发展趋势",
+            "icon": "./images/QuShiFenXi/FaZhan.png",
+            "to": "/QuShiFenXi/FaZhan",
+            "type": "QuShiFenXi"
+          },
+          {
+            "id": "2.1.2",
+            "name": "TongXingBiJiao",
+            "desc": "同形比较",
+            "icon": "./images/QuShiFenXi/TongXingBiJiao.png",
+            "to": "/QuShiFenXi/TongXingBiJiao",
+            "type": "QuShiFenXi"
+          }
+        ]
+      }
+    ]
+  }
+}

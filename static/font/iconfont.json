@@ -1,0 +1,422 @@
+{
+  "id": "1805325",
+  "name": "fdes-icon",
+  "font_family": "fdesfont",
+  "css_prefix_text": "fdes-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "963485",
+      "name": "Converters",
+      "font_class": "zhuanhuanzhe",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "3229019",
+      "name": "convert",
+      "font_class": "convert",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "11610948",
+      "name": "convert",
+      "font_class": "convert1",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "12528142",
+      "name": "convert-ip-ash--hover",
+      "font_class": "convert-ip-ash--hover",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "13884599",
+      "name": "Currency Converter",
+      "font_class": "CurrencyConverter",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "15106031",
+      "name": "Plate Convert",
+      "font_class": "PlateConvert",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "577409",
+      "name": "list",
+      "font_class": "weibiao45127",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "1188881",
+      "name": "chart",
+      "font_class": "chart",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "2365362",
+      "name": "list",
+      "font_class": "list",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2565510",
+      "name": "Radar",
+      "font_class": "Radar",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "3730806",
+      "name": "chart",
+      "font_class": "chart1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4448523",
+      "name": "chart",
+      "font_class": "chart2",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "4616212",
+      "name": "CHART",
+      "font_class": "icon-test",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "4750233",
+      "name": "List of issues",
+      "font_class": "Listofissues",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "4752075",
+      "name": "error",
+      "font_class": "error",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4832083",
+      "name": "model",
+      "font_class": "model",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "5074599",
+      "name": "chart",
+      "font_class": "chart3",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "6217429",
+      "name": "Chart",
+      "font_class": "xiayibu--",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "6538183",
+      "name": "error",
+      "font_class": "error1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8421038",
+      "name": "radar map",
+      "font_class": "radarmap",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8984035",
+      "name": "template",
+      "font_class": "template",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "9066099",
+      "name": "error",
+      "font_class": "icon",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "9921108",
+      "name": "chart",
+      "font_class": "chartt",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "10080305",
+      "name": "Template",
+      "font_class": "Template",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "10470753",
+      "name": "chart",
+      "font_class": "chart4",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "11107319",
+      "name": "line-chart",
+      "font_class": "invalid-name",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "11656093",
+      "name": "Chart",
+      "font_class": "Chart",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "11684425",
+      "name": "Error icon",
+      "font_class": "Erroricon",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "11729147",
+      "name": "chart",
+      "font_class": "chart5",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "13727598",
+      "name": "template",
+      "font_class": "template1",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "13738578",
+      "name": "radar",
+      "font_class": "radar",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13843164",
+      "name": "chart",
+      "font_class": "chart6",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "13890484",
+      "name": "model",
+      "font_class": "model1",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "14230535",
+      "name": "Error",
+      "font_class": "Errorcorrection-copy",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "15073568",
+      "name": "Model",
+      "font_class": "Model",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "211433",
+      "name": "process",
+      "font_class": "process",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "212373",
+      "name": "electrical",
+      "font_class": "electrical",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "224984",
+      "name": "rfq",
+      "font_class": "rfq1",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "591719",
+      "name": "wxb报表",
+      "font_class": "wxbbaobiao",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1099498",
+      "name": "data",
+      "font_class": "data",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "1248734",
+      "name": "网络",
+      "font_class": "wangluo",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1249120",
+      "name": "大数据",
+      "font_class": "dashuju",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1305045",
+      "name": "温度增加",
+      "font_class": "wenduzengjia",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1305048",
+      "name": "温度",
+      "font_class": "wendu",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "1305050",
+      "name": "温度降低",
+      "font_class": "wendujiangdi",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1305091",
+      "name": "系统运转情况",
+      "font_class": "xitongyunzhuanqingkuang",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1305367",
+      "name": "数据01",
+      "font_class": "shuju01",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1305480",
+      "name": "数据导出-01",
+      "font_class": "shujudaochu-01",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "1305482",
+      "name": "系统状态",
+      "font_class": "xitongzhuangtai",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "1305650",
+      "name": "网络品牌树",
+      "font_class": "wangluopinpaishu",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "1306362",
+      "name": "aislogo",
+      "font_class": "aislogo",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "1573888",
+      "name": "logistic",
+      "font_class": "logistic",
+      "unicode": "e811",
+      "unicode_decimal": 59409
+    },
+    {
+      "icon_id": "6151031",
+      "name": "chart-relation",
+      "font_class": "chart-relation",
+      "unicode": "e78d",
+      "unicode_decimal": 59277
+    },
+    {
+      "icon_id": "6151032",
+      "name": "chart-scatter-plot",
+      "font_class": "chart-scatter-plot",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "6151033",
+      "name": "chart-area",
+      "font_class": "chart-area",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "6151034",
+      "name": "chart-line",
+      "font_class": "chart-line",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "6151035",
+      "name": "chart-bar",
+      "font_class": "chart-bar",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    },
+    {
+      "icon_id": "7711442",
+      "name": "electrical-equipment",
+      "font_class": "electrical-equipment",
+      "unicode": "e880",
+      "unicode_decimal": 59520
+    },
+    {
+      "icon_id": "7766754",
+      "name": "icon_index_line",
+      "font_class": "icon_index_line",
+      "unicode": "eba1",
+      "unicode_decimal": 60321
+    }
+  ]
+}
